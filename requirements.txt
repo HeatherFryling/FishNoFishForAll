@@ -1,0 +1,11 @@
+imageio == 2.33.1
+tqdm == 4.65.0
+opencv-python == 4.9.0.80
+matplotlib == 3.8.0
+scikit-image == 0.22.0
+scikit-learn == 1.4
+torch == 2.2.2
+torchvision == 0.17.2
+matplotlib == 3.8.0
+rawpy == 0.19.1
+pandas == 2.2.2
