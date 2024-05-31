@@ -1,6 +1,6 @@
 # FishNoFishRepo
 
-This is the example code for the FishNoFish dataset for comparison of JPEG, linear TIFF, and log EXR images.
+This is the example code for the FishNoFish dataset for comparison of JPEG, linear TIFF, and log EXR images. This project explores differential performance in a small CNN given the same data in sRGB JPEG, linear TIFF, and log EXR format.
 
 ## Paper: Log RGB Images Provide Invariance to Intensity and Color Balance Variation for Convolutional Networks
 https://papers.bmvc2023.org/0635.pdf
