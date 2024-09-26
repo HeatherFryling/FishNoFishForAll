@@ -5,6 +5,9 @@ This is the example code for the FishNoFish dataset for comparison of JPEG, line
 ## Paper: Log RGB Images Provide Invariance to Intensity and Color Balance Variation for Convolutional Networks
 https://papers.bmvc2023.org/0635.pdf
 
+## Thesis: Rethinking Image Formats for Computer Vision: JPEG sRGB, Linear, and Log RGB; Object Detection and Shadow Removal
+https://www.proquest.com/docview/3103720780/abstract/DD503B6CBDAF4B92PQ/1?sourcetype=Dissertations%20&%20Theses
+
 ## Data
 The FishNoFish dataset consists of 1592 triplets sRGB JPEG, linear RGB TIFF, and log RGB EXR images split into 1273 training images, 158 validation images, and 161 test images. The images are resized to short side of 64 pixels.
 
